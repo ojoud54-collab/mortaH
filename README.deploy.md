@@ -1,0 +1,1 @@
+See render.yaml for backend. Deploy frontend as static site via Render UI, build command: npm install && npm run build, publish: build
